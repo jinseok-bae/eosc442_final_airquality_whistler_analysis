@@ -1,0 +1,1 @@
+Analysis of how temperature, precipitation, and seasonality influenced ozone (O₃) and PM2.5 concentrations in Whistler, BC during 2023, using NAPS and Environment and Climate Change Canada data. The project applies correlation analysis, seasonal comparisons, and multiple linear regression to evaluate meteorological controls on air quality.
